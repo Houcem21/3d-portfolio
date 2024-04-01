@@ -88,10 +88,9 @@ export const experiences = [
         iconBg: "#D3D3D3",
         date: "Jun 2021 - Feb 2022",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Collaborated with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Implemented responsive design and ensured cross-browser compatibility.",
+            "Participated in code reviews and provided constructive feedback to other developers.",
         ],
     },
     {
@@ -101,10 +100,9 @@ export const experiences = [
         iconBg: "#000000",
         date: "Jun 2022 - Nov 2022",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Improved the satisfaction rate for users",
+            "Maintained a loyal set of customers.",
+            "Resolved a number of conflicts between transaction parties."
         ],
     },
     {
@@ -114,10 +112,9 @@ export const experiences = [
         iconBg: "#D3D3D3",
         date: "Jun 2023 - Sept 2023",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Aided to the creation of a new school in Santa Catarina.",
+            "Created a curriculum to follow through for teachers.",
+            "Educated kids from different ages."
         ],
     },
     {
@@ -127,10 +124,9 @@ export const experiences = [
         iconBg: "#7511A4",
         date: "Jul 2023 - Oct 2023",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Contributed to the developing of the main platform.",
+            "Assited teammates to a large degree.",
+            "Kept the project in order and fixed major bugs."
         ],
     },
 ];

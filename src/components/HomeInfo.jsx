@@ -22,13 +22,13 @@ const renderContent = {
         </h1></div>
     ),
     2: (
-        <InfoBox text="Most experienced in Web Development, I'm well acquainted with JS Fundamentals and React JS." btnText='Learn more' link="/about" /> 
+        <InfoBox text="Experienced in Frontend Development, I'm passionate about Game Making and Web Design." btnText='Learn more' link="/about" /> 
     ),
     3: (
-        <InfoBox text="Along the Javascript roadmap, I've also grown quite fond of game making. Simple web apps for now." btnText='View Projects' link="/projects" />
+        <InfoBox text="Along the learning roadmap, I've sorted a list of some of my best projects. Check them out!" btnText='View Projects' link="/projects" />
     ),
     4: (
-        <InfoBox text="Recently, I've made more time has in dedication to drawing and digital art. If you care to hear more, send me a message." btnText="Let's talk" link="/contact" />
+        <InfoBox text="For this summer I'm looking for an internship in Web Development. If my profile interests you, send me a message!" btnText="Let's talk" link="/contact" />
     )
 }
 

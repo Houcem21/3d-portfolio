@@ -10,7 +10,7 @@ const About = () => {
   return (
     <section className="max-container text-white">
       <h1 className='head-text'>Hello, I'm 
-      <span className='blue-gradient_text font-semibold drop-shadow'> Sam</span> <br /></h1>
+      <span className='blue-gradient_text font-semibold drop-shadow'> Houcem</span> <br /></h1>
       <div className="mt-5 flex flex-col gap-3 text-slate-50">
         <p>Frontend Developer based in Tunisia, specialized in React JS and Web development. Currently on the look for an internship.</p>
       </div>
