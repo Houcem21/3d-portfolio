@@ -12,7 +12,7 @@ const About = () => {
       <h1 className='head-text'>Hello, I'm 
       <span className='blue-gradient_text font-semibold drop-shadow'> Houcem</span> <br /></h1>
       <div className="mt-5 flex flex-col gap-3 text-slate-50">
-        <p>Frontend Developer based in Tunisia, specialized in React JS and Web development. Currently on the look for an internship.</p>
+        <p>Frontend Developer based in Tunisia, specialized in React JS and Web development. Currently on the look for a Developer position.</p>
       </div>
 
       <div className="py-10 flex flex-col">

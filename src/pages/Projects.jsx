@@ -28,7 +28,7 @@ const Projects = () => {
               <h4 className='text-2xl font-poppins font-semibold'>{project.name}</h4>
               <p className='mt-2 text-slate-200'>{project.description}</p>
               <div className='mt-5 flex items-center gap-2 font-poppins'>
-                <Link to={project.link} target='_blank' rel='noopener noreferrer' className='font-semibold text-blue-300'>Live Link</Link>
+                <Link to={project.link} target='_blank' rel='noopener noreferrer' className='font-semibold text-blue-300'>{project.link.substring(8, 14) === "github" ? "Repo Link" : "Live Link"}</Link>
                 <img src={arrow} alt="arrow" className='w-4 h-4 object-contain' />
               </div>
             </div>

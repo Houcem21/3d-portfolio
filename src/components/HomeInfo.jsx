@@ -18,7 +18,7 @@ const renderContent = {
     1: (
         <div className="p-6 max-w-sm mx-auto bg-black-500 rounded-xl shadow-lg flex items-center space-x-4 hover:underline-">
         <h1 className='text-xl font-medium blue-gradient_text'>
-            Hey, I'm <span className='font-semibold'>Houcem</span>. <br />A Developer from Tunisia. 
+            Hey, I'm <span className='font-semibold'>Houcem.</span><br />React Developer based in Tunisia.
         </h1></div>
     ),
     2: (
@@ -28,7 +28,7 @@ const renderContent = {
         <InfoBox text="Along the learning roadmap, I've sorted a list of some of my best projects. Check them out!" btnText='View Projects' link="/projects" />
     ),
     4: (
-        <InfoBox text="For this summer I'm looking for an internship in Web Development. If my profile interests you, send me a message!" btnText="Let's talk" link="/contact" />
+        <InfoBox text="I enjoy working in a team and would fit right in. If my profile interests you, send me a message!" btnText="Let's talk" link="/contact" />
     )
 }
 

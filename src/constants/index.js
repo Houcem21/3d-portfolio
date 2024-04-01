@@ -8,7 +8,6 @@ import {
     html,
     javascript,
     linkedin,
-    nextjs,
     nodejs,
     react,
     sass,
@@ -51,11 +50,6 @@ export const skills = [
     {
         imageUrl: javascript,
         name: "JavaScript",
-        type: "Frontend",
-    },
-    {
-        imageUrl: nextjs,
-        name: "Next.js",
         type: "Frontend",
     },
     {
