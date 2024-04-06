@@ -184,7 +184,7 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Youtube Clone',
         description: 'Built a complete clone of Youtube, allowing users to view videos, all called from a RAPID API.',
-        link: 'https://github.com/Houcem21/youtube-clone',
+        link: 'https://youtube-clone-hd.netlify.app/',
     },
     {
         iconUrl: calculator,
