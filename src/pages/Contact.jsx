@@ -106,7 +106,7 @@ const Contact = () => {
           </Suspense>
         </Canvas>
       </div>
-      <div className="flex-1 absolute max-w-[40%] overflow-hidden right-5 bottom-5 flex gap-20">
+      <div className="flex-1 absolute max-w-[40%] overflow-hidden right-10 bottom-5 flex gap-20 opacity-50">
         <div className="logo-container">
           <a href="https://www.linkedin.com/in/houcem-dammak21/" target="_blank">
             <img className='h-40 w-40' src={linkedin} alt="Linkedin link" />
