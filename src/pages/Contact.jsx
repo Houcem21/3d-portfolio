@@ -8,6 +8,8 @@ import Loader from '../components/Loader';
 import useAlert from '../hooks/useAlert';
 import Alert from '../components/Alert';
 
+import {github, linkedin} from '../assets/icons'
+
 const Contact = () => {
   const formRef = useRef(null);
   const [form, setForm] = useState({name: '', email: '', message: ''});
@@ -103,6 +105,18 @@ const Contact = () => {
               />
           </Suspense>
         </Canvas>
+      </div>
+      <div className="flex-1 absolute max-w-[40%] overflow-hidden right-5 bottom-5 flex gap-20">
+        <div className="logo-container">
+          <a href="https://www.linkedin.com/in/houcem-dammak21/" target="_blank">
+            <img className='h-40 w-40' src={linkedin} alt="Linkedin link" />
+          </a>
+        </div>
+        <div className="logo-container">
+          <a href="https://github.com/Houcem21" target="_blank">
+            <img className='h-40 w-40' src={github} alt="Github link" />
+          </a>
+        </div>
       </div>
     </section>
   )
